@@ -23,3 +23,7 @@ This command can be executed in following ways:
    This lists top 20 even todos.
 
    Unit tests can be run by npm test command
+
+3) Tool in the form of executable file is available in this repo under tool folder.
+   Either copy this file to any folder of your choice or go to tool folder.
+   Open it using command prompt and run todos-cli list.
