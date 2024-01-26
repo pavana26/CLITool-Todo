@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  cli:
+    image: clitool-todo
+    build:
+      context: .
+      target: production
+
+    ports:
+      - 4000:4000
