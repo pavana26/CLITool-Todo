@@ -7,9 +7,9 @@ This command can be executed in following ways:
 1. Using terminal from tools such as Visual Studio Code
  a) Set up the project by cloning git repo and all dependencied installed.
  b) Run from the root folder following commands:
-    npm run build
-    npm i -g
-    todos-cli list
+  >>  npm run build
+  >>  npm i -g
+   >> todos-cli list
 
     Should be able to see first 20 even todos with their title and completed yes or no
 
@@ -22,7 +22,7 @@ This command can be executed in following ways:
 
    This lists top 20 even todos.
 
-   Unit tests can be run by npm test command
+   Unit tests can be run by using the command >> npm test 
 
 3) Tool in the form of executable file is available in this repo under tool folder.
    Either copy this file to any folder of your choice or go to tool folder.
